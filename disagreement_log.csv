@@ -1,0 +1,9 @@
+﻿image,label,field,issue,mine,peer,verdict,guideline_rule,action
+D06.png,frame_meta,camera_blocked,khác giá trị,no,,"mine đúng, peer sai (peer không có tag frame_meta)  ",Mỗi ảnh đều phải có đúng 1 tag frame_meta,"Giữ nguyên mine, yêu cầu đối phương sửa"
+D06.png,frame_meta,light,khác giá trị,unknown,,"mine đúng, peer sai (peer không có tag frame_meta)",Mỗi ảnh đều phải có đúng 1 tag frame_meta,"Giữ nguyên mine, yêu cầu đối phương sửa"
+D06.png,frame_meta,modality,khác giá trị,ir,,"mine đúng, peer sai (peer không có tag frame_meta)",Mỗi ảnh đều phải có đúng 1 tag frame_meta,"Giữ nguyên mine, yêu cầu đối phương sửa"
+S01_rgb.png,frame_meta,light,khác giá trị,unknown,day,"mine đúng, peer sai",Ảnh SVIRO là ảnh dựng: light nên là 'unknown',"Giữ nguyên mine, yêu cầu đối phương sửa"
+S01_rgb.png,child_seat,occupied,khác giá trị ,yes,no,"mine đúng, peer sai ","Trong box có đứa trẻ ngồi rõ ràng nên occupied phải là ""yes""","Giữ nguyên mine, yêu cầu đối phương sửa"
+S02_ir.png,person,seatbelt,khác giá trị ,not_worn,unknown,"mine đúng, peer sai ","Người trong box không đeo dây an toàn rất rõ ràng, không thể là ""unknown""","Giữ nguyên mine, yêu cầu đối phương sửa"
+S02_rgb.png,frame_meta,light,khác giá trị,unknown,day,"mine đúng, peer sai",Ảnh SVIRO là ảnh dựng: light nên là 'unknown',"Giữ nguyên mine, yêu cầu đối phương sửa"
+S04_rgb.png,frame_meta,modality,khác giá trị,ir,rgb,"peer đúng, mine sai",Ảnh rgb sẽ có modality là rgb,Sửa mine

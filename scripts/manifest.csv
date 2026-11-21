@@ -1,0 +1,11 @@
+set,scene,car,ir_file,rgb_file
+4,S01,x5,S01_ir.png,S01_rgb.png
+4,S02,x5,S02_ir.png,S02_rgb.png
+4,S03,x5,S03_ir.png,S03_rgb.png
+4,S04,x5,S04_ir.png,S04_rgb.png
+4,S05,x5,S05_ir.png,S05_rgb.png
+4,S06,x5,S06_ir.png,S06_rgb.png
+4,S07,x5,S07_ir.png,S07_rgb.png
+4,S08,x5,S08_ir.png,S08_rgb.png
+4,S09,x5,S09_ir.png,S09_rgb.png
+4,S10,x5,S10_ir.png,S10_rgb.png

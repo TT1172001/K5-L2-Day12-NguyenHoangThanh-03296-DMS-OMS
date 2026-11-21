@@ -1,3 +1,5 @@
 frame_id,source,phenomenon,affected_field,effect_on_label
-S01_ir,IR_sim,"(ví dụ) không thấy dây an toàn trên áo tối",seatbelt,"giữ unknown; RGB cùng cảnh cũng không thấy"
-D03,real_IR,"(ví dụ) đốm phản xạ LED trên tròng kính che mắt phải",right_eye_state,"ghi unknown, không ghi closed"
+S03_rgb,IR_sim,"Ảnh tối, không nhìn thấy cái cốc như ảnh ir",cup in rear_middle,"không đánh box"
+D01,real_IR,"Người quay mặt sang phải, không thấy toàn bộ mắt phải",right_eye_state,"đánh outside toàn bộ các điểm mắt phải"
+D02,real_IR,"Không quan sát được toàn bộ phần miệng của người lái xe","mouth_state, lip_state","đánh outside toàn bộ các điểm môi và miệng"
+D06,real_IR,"Người quay mặt sang phải, không thấy toàn bộ mắt phải",right_eye_state,"đánh outside toàn bộ các điểm mắt phải"
