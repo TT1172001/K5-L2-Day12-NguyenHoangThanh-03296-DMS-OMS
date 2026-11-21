@@ -1,22 +1,15 @@
 # TEAM — Ngày 12
 
-Mã bộ ảnh: **Gxx** · Hình thức: nhóm / cá nhân (xóa một)
+Mã bộ ảnh: **G04** · Hình thức: cá nhân
 
 | Họ tên | MSSV | Đã gán đủ 22 ảnh? | Review chéo với (peer diff) | Số dòng disagreement đã xử lý |
 |---|---|---|---|---|
-| | | có / không | | |
-| | | | | |
-
-Ca hai bạn vẫn không thống nhất và đã hỏi coach (ghi tên ảnh + đối tượng):
-
-- …
+|Nguyễn Hoàng Thành |2A202603296 | có |Lê Duy Bảo 2A202603257 |8 |
 
 ## Cá nhân
 
 Mỗi người một mục, 1–2 dòng mỗi ý.
 
-### <HoVaTen>-<MSSV>
+### <NguyenHoangThanh>-<2A202603296>
 - Phần mình làm (ngoài 22 ảnh của mình, ví dụ ai review ai, ai tổng hợp ca hỏi coach): …
 - Điều mình học được hôm nay: …
-
-Làm cá nhân: chỉ cần điền dòng của mình, tên bạn được coach ghép, và mục "Cá nhân" của mình.
